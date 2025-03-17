@@ -20,7 +20,7 @@
 <h3 align="left">Contacta:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arturo-alexander-chaparro-ramirez-3a3111294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturo-alexander-chaparro-ramirez-3a3111294" height="30" width="40" /></a>
-<a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
+<a href="https://instagram.com/artur.cha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artur.cha_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
 </p>
 
