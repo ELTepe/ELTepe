@@ -1,30 +1,53 @@
-![MasterHead](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</a>
-<h1 align="center">Hi 👋, I'm ElTepe</h1>
-<h3 align="center">Me gusta el desarrollo de software</h3>
+# Jorge Macias personal web pages
 
-- 🔭 Actualmente estoy estudiando: **Ingenieria en desarrollo de software**
+### Hello World! 👋 :octocat:	
+> *Sad news, world never says hello back* <br/>
+> *People always say "hello world!" But never "how are you world?🌎"*
 
-- 🌱 Me gusta ver videos de noticas de inovacion: **Nate**
-
-- 👯 Busco un equipon: **Estoy abierto a cualquier proyecto**
-
-- 💬 Pregúntame sobre: **JavaScript, python**
-
-- 📫 Quieres contactarme: **Te dejo mi email achaparo763@gmail.com**
-
-- ⚡ Un Dato : **Si funciona no le muevas.**
-
-<h3 align="left">Contacta:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arturo-alexander-chaparro-ramirez-3a3111294" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arturo-alexander-chaparro-ramirez-3a3111294" height="30" width="40" /></a>
-<a href="https://instagram.com/artur.cha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artur.cha_" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> ></p>
+I´m Ulmo! If u want to know more about me check below.  
+Visit [my online CV](https://ulmomacias.github.io).
+You can visit [my interactive bio](https://ulmomacias.github.io/Bio.html) to learn more about me
 
 
-Tank you ujjwalb09
+# ![me](https://media2.giphy.com/media/QyhbMNsMlmR5I1kgGn/giphy.gif)
+
+🔭 I’m currently studying two BS: Computer Science, Data Science <br/>
+📫 How to reach me: You can reach me on [linkdIn](https://www.linkedin.com/in/ulmo-macias/), or email at jorgemacias(at)ciencias.unam.mx
+
+
+## Interactive Bio
+
+Done using [revealjs](https://revealjs.com)
+### Reveal.js
+
+reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
+### Documentation
+The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
+### License
+
+MIT licensed
+
+Copyright (C) 2011-2020 Hakim [El Hattab](https://hakim.se)
+
+## CV Template
+
+
+Free Bootstrap 4 Resume/CV Template for developers
+Theme name: Pillar
+
+Theme version: v1.0.1
+
+Release Date: 23 July 2018
+
+Author: Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
+
+### Contact
+Web: http://themes.3rdwavemedia.com/
+Email: themes@3rdwavemedia.com
+Twitter: @3rdwave_themes
+
+### License: 
+This template is free under the Creative Commons Attribution 3.0 License.
+https://creativecommons.org/licenses/by/3.0/
+
+If you'd like to use the template without the attribution, you can buy the commercial license via our website: https://themes.3rdwavemedia.com/
