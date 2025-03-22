@@ -6,7 +6,6 @@
 
 I´m Ulmo! If u want to know more about me check below.  
 Visit [my online CV](https://ulmomacias.github.io).
-# ![me](https://media2.giphy.com/media/QyhbMNsMlmR5I1kgGn/giphy.gif)
 
 
 
